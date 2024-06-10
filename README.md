@@ -28,7 +28,8 @@ This is a Next.js application named [gaming_achievements]. It includes a simple 
 
 ## Deployment
 
-This application is deployed on Vercel. You can view the live site at: [deployment URL]
+This application is deployed on Vercel. You can view the live site at: [gaming-achievements-c8mrgqhmg-careys-projects-eba4c65d.vercel.app
+]
 
 
 
